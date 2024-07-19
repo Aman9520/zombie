@@ -41,7 +41,7 @@ $(document).ready(function () {
     var typed = new Typed(".typing", {
       strings: [
         "Bug Hunter",
-        "pentration tester",
+        "penetration tester",
         "Red teamer",
         "Python developer"
       ],
@@ -53,7 +53,7 @@ $(document).ready(function () {
     var typed = new Typed(".typing-2", {
       strings: [
         "Bug Hunter",
-        "pentration tester",
+        "penetration tester",
         "Red teamer",
         "Python developer"
       ],
