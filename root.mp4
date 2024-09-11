@@ -1,1 +1,1 @@
-<video src="nonexistent.mp4" onerror="alert('XSS')"></video>
+<video src="javascript:alert(1)"></video>
